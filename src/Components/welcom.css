@@ -1,0 +1,20 @@
+.cc{
+       background: hsla(211, 74%, 82%, 1);
+
+       background: radial-gradient(circle, hsla(211, 74%, 82%, 1) 0%, hsla(39, 83%, 93%, 1) 73%);
+       
+       background: -moz-radial-gradient(circle, hsla(211, 74%, 82%, 1) 0%, hsla(39, 83%, 93%, 1) 73%);
+       
+       background: -webkit-radial-gradient(circle, hsla(211, 74%, 82%, 1) 0%, hsla(39, 83%, 93%, 1) 73%);
+       
+       filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ADCFF3", endColorstr="#FCF2DF", GradientType=1 );
+}
+
+h4{
+       font-family: 'Poppins', sans-serif;
+       
+}
+
+.fs{
+       min-height: 100vh;
+}
